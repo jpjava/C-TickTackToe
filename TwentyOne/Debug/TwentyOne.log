@@ -1,0 +1,4 @@
+﻿  TwentyOne.cpp
+h:\twentyone\twentyone\twentyone.cpp(21): warning C4101: 'choice': unreferenced local variable
+h:\twentyone\twentyone\twentyone.cpp(181): warning C4101: 'u': unreferenced local variable
+  TwentyOne.vcxproj -> H:\TwentyOne\Debug\TwentyOne.exe
